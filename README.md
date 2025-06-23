@@ -1,1 +1,1 @@
-# tic-tac-toe-bot
+Tic-Tac-Toe bot using Minimax
